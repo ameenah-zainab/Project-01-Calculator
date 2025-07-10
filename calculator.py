@@ -1,7 +1,7 @@
 """
 Python Project 01: Personal Calculator
 Author: Ameenah Begum ZainaB
-Date: 10-07-2025
+Date: 2025-07-10
 
 Description:
 This script builds a command-line calculator that supports:

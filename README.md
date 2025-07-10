@@ -1,7 +1,7 @@
 # Project 01 — Personal Calculator 
 
 **Author:** Ameenah Begum Zainab  
-**Date:** 2025-10-07
+**Date:** 2025-07-10
 
 ## Description
 This is a command-line calculator built in Python. It supports:
